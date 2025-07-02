@@ -19,7 +19,7 @@ class MyApp(QWidget):
         self.move(1000, 100)
         # 
         self.resize(400, 400)
-        
+        # 위의 설정대로 창을 생성(보여줌)
         self.show()
 
 
